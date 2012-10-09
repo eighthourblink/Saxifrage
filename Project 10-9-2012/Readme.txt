@@ -1,0 +1,1 @@
+Here is the complete assignment for class on 10-9-12.
