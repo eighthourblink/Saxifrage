@@ -29,7 +29,7 @@ try:
 except:
     fail("Please provide a word to find.")
 
-#statement used to 
+#statement used to - 2: starts the list
 filenames = sys.argv[2:]
 if not filenames:
     fail("Please enter at least one filename.")
